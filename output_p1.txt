@@ -1,0 +1,100 @@
+• Il file "covid.txt" ha 239 frasi e 6406 tokens.
+  Il file "pride_and_prejudice.txt" ha 304 frasi e 6441 tokens.
+
+• La lunghezza media delle frasi del file "covid.txt" è di 26.803347280334727
+  La lunghezza media delle frasi del file "pride_and_prejudice.txt" è di 21.1875
+  La lunghezza media dei tokens del file "covid.txt" è di 5.401969252029711 (escludendo la punteggiatura).
+  La lunghezza media dei tokens del file "pride_and_prejudice.txt" è di 4.161410347271438 (escludendo la punteggiatura).
+
+• Gli hapax dei primi 1000 tokens del file "covid.txt" sono 244
+  Gli hapax dei primi 1000 tokens del file "pride_and_prejudice.txt" sono 205
+_________________________________________________
+
+• File analizzato: "covid.txt"
+  Numero di parole tipo dopo 500 tokens: 263
+  La Type Token Ratio dopo 500 tokens: 0.04105526069310022 
+
+  Numero di parole tipo dopo 1000 tokens: 389
+  La Type Token Ratio dopo 1000 tokens: 0.06072432094911021 
+
+  Numero di parole tipo dopo 1500 tokens: 495
+  La Type Token Ratio dopo 1500 tokens: 0.07727130814861068 
+
+  Numero di parole tipo dopo 2000 tokens: 649
+  La Type Token Ratio dopo 2000 tokens: 0.101311270683734 
+
+  Numero di parole tipo dopo 2500 tokens: 790
+  La Type Token Ratio dopo 2500 tokens: 0.12332188573212613 
+
+  Numero di parole tipo dopo 3000 tokens: 953
+  La Type Token Ratio dopo 3000 tokens: 0.14876678114267874 
+
+  Numero di parole tipo dopo 3500 tokens: 1059
+  La Type Token Ratio dopo 3500 tokens: 0.1653137683421792 
+
+  Numero di parole tipo dopo 4000 tokens: 1177
+  La Type Token Ratio dopo 4000 tokens: 0.18373399937558538 
+
+  Numero di parole tipo dopo 4500 tokens: 1326
+  La Type Token Ratio dopo 4500 tokens: 0.20699344364658134 
+
+  Numero di parole tipo dopo 5000 tokens: 1415
+  La Type Token Ratio dopo 5000 tokens: 0.22088666874804871 
+
+  Numero di parole tipo dopo 5500 tokens: 1540
+  La Type Token Ratio dopo 5500 tokens: 0.24039962535123321 
+
+  Numero di parole tipo dopo 6000 tokens: 1659
+  La Type Token Ratio dopo 6000 tokens: 0.25897596003746487 
+
+  Numero di parole tipo dopo aver scorso tutti i tokens: 1757
+  La Type Token Ratio dopo aver scorso tutti i tokens: 0.2742741180143615 
+
+-------------------------------------------------
+
+• File analizzato: "pride_and_prejudice.txt"
+  Numero di parole tipo dopo 500 tokens: 202
+  La Type Token Ratio dopo 500 tokens: 0.03136158981524608 
+
+  Numero di parole tipo dopo 1000 tokens: 334
+  La Type Token Ratio dopo 1000 tokens: 0.05185530197174352 
+
+  Numero di parole tipo dopo 1500 tokens: 443
+  La Type Token Ratio dopo 1500 tokens: 0.0687781400403664 
+
+  Numero di parole tipo dopo 2000 tokens: 529
+  La Type Token Ratio dopo 2000 tokens: 0.08213010402111473 
+
+  Numero di parole tipo dopo 2500 tokens: 644
+  La Type Token Ratio dopo 2500 tokens: 0.0999844744604875 
+
+  Numero di parole tipo dopo 3000 tokens: 753
+  La Type Token Ratio dopo 3000 tokens: 0.11690731252911038 
+
+  Numero di parole tipo dopo 3500 tokens: 830
+  La Type Token Ratio dopo 3500 tokens: 0.12886197795373389 
+
+  Numero di parole tipo dopo 4000 tokens: 895
+  La Type Token Ratio dopo 4000 tokens: 0.13895357863685764 
+
+  Numero di parole tipo dopo 4500 tokens: 963
+  La Type Token Ratio dopo 4500 tokens: 0.14951094550535632 
+
+  Numero di parole tipo dopo 5000 tokens: 1048
+  La Type Token Ratio dopo 5000 tokens: 0.16270765409097968 
+
+  Numero di parole tipo dopo 5500 tokens: 1128
+  La Type Token Ratio dopo 5500 tokens: 0.1751280857009781 
+
+  Numero di parole tipo dopo 6000 tokens: 1184
+  La Type Token Ratio dopo 6000 tokens: 0.18382238782797702 
+
+  Numero di parole tipo dopo aver scorso tutti i tokens: 1235
+  La Type Token Ratio dopo aver scorso tutti i tokens: 0.19174041297935104 
+
+_________________________________________________
+
+• Le parole piene del file "covid.txt" costituiscono il 57.89884483296909% del corpus.
+  Le parole funzionali del file "covid.txt" costituiscono il 29.222603808929126% del corpus.
+  Le parole piene del file "pride_and_prejudice.txt" costituiscono il 45.48983077161932% del corpus.
+  Le parole funzionali del file "pride_and_prejudice.txt" costituiscono il 36.15898152460798% del corpus.

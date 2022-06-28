@@ -1,0 +1,266 @@
+• LISTA DELLE 10 POS PIU' FREQUENTI
+ - del file "covid.txt":
+POS: NN         frequenza: 1060
+POS: IN         frequenza: 754
+POS: JJ         frequenza: 645
+POS: NNS        frequenza: 573
+POS: DT         frequenza: 478
+POS: ,  frequenza: 361
+POS: NNP        frequenza: 338
+POS: CC         frequenza: 258
+POS: .  frequenza: 239
+POS: VBN        frequenza: 230
+
+ - del file "pride_and_prejudice.txt":
+POS: IN         frequenza: 624
+POS: NN         frequenza: 614
+POS: PRP        frequenza: 549
+POS: ,  frequenza: 404
+POS: DT         frequenza: 394
+POS: RB         frequenza: 385
+POS: JJ         frequenza: 364
+POS: VBD        frequenza: 345
+POS: NNP        frequenza: 322
+POS: .  frequenza: 308
+
+_________________________________________________
+
+• PRIMI 10 BIGRAMMI DI POS IN ORDINE DI FREQUENZA
+ - del file "covid.txt":
+('JJ', 'NN')    frequenza: 249
+('NN', 'IN')    frequenza: 245
+('DT', 'NN')    frequenza: 228
+('JJ', 'NNS')   frequenza: 193
+('IN', 'DT')    frequenza: 185
+('NN', 'NN')    frequenza: 150
+('NNS', 'IN')   frequenza: 148
+('IN', 'JJ')    frequenza: 142
+('NN', ',')     frequenza: 132
+('IN', 'NN')    frequenza: 131
+
+ - del file "pride_and_prejudice.txt":
+('DT', 'NN')    frequenza: 215
+('NN', 'IN')    frequenza: 164
+('IN', 'PRP')   frequenza: 142
+('IN', 'DT')    frequenza: 138
+('PRP', 'VBD')  frequenza: 136
+('NN', ',')     frequenza: 130
+('JJ', 'NN')    frequenza: 121
+('NNP', 'NNP')  frequenza: 111
+('PRP$', 'NN')  frequenza: 109
+('PRP', 'VBP')  frequenza: 104
+
+_________________________________________________
+
+• PRIMI 10 TRIGRAMMI DI POS IN ORDINE DI FREQUENZA
+ - del file "covid.txt":
+('IN', 'DT', 'NN')      frequenza: 95
+('DT', 'NN', 'IN')      frequenza: 89
+('IN', 'JJ', 'NNS')     frequenza: 72
+('DT', 'JJ', 'NN')      frequenza: 71
+('NN', 'IN', 'NN')      frequenza: 55
+('JJ', 'NNS', 'IN')     frequenza: 50
+('NN', 'IN', 'DT')      frequenza: 50
+('JJ', 'NN', 'IN')      frequenza: 50
+('NN', 'IN', 'JJ')      frequenza: 49
+('NNS', 'IN', 'DT')     frequenza: 45
+
+ - del file "pride_and_prejudice.txt":
+('DT', 'NN', 'IN')      frequenza: 82
+('IN', 'DT', 'NN')      frequenza: 73
+('.', "''", '``')       frequenza: 67
+('DT', 'JJ', 'NN')      frequenza: 63
+('IN', 'PRP$', 'NN')    frequenza: 46
+('NN', 'IN', 'DT')      frequenza: 44
+('PRP', 'MD', 'VB')     frequenza: 41
+('NN', ',', 'CC')       frequenza: 37
+('JJ', 'NN', 'IN')      frequenza: 36
+('PRP$', 'NN', ',')     frequenza: 36
+
+_________________________________________________
+
+• I 20 AGGETTIVI PIU' FREQUENTI
+ - del file "covid.txt":
+ such, severe, many, other, acute, viral, high, least, social, public, common, infected, respiratory, effective, clinical, available, Many, first, higher, small.
+
+ - del file "pride_and_prejudice.txt":
+ such, much, good, young, own, more, little, handsome, great, last, agreeable, other, next, sure, first, large, fine, general, many, eldest.
+
+• I 20 AVVERBI PIU' FREQUENTI
+ - del file "covid.txt":
+ not, also, more, nose, However, often, as, even, only, physically, formerly, particularly, very, well, fever, long, commonly, sometimes, first, mainly.
+
+ - del file "pride_and_prejudice.txt":
+ not, so, very, never, soon, only, well, too, most, as, quite, much, therefore, certainly, always, more, just, now, there, enough.
+
+_________________________________________________
+
+• PRIMI 20 BIGRAMMI AGGETTIVO-SOSTANTIVO (ENTRAMBI CON FREQUENZA > 3)
+| CON FREQUENZA MASSIMA
+ - del file "covid.txt":
+acute respiratory       frequenza assoluta: 6
+social distancing       frequenza assoluta: 5
+pregnant women  frequenza assoluta: 4
+severe symptoms         frequenza assoluta: 3
+indoor spaces   frequenza assoluta: 3
+higher risk     frequenza assoluta: 2
+airborne particles      frequenza assoluta: 2
+infected people         frequenza assoluta: 2
+many people     frequenza assoluta: 2
+SARS-CoV-2 variants     frequenza assoluta: 2
+low levels      frequenza assoluta: 2
+severe disease  frequenza assoluta: 2
+clinical studies        frequenza assoluta: 2
+increased risk  frequenza assoluta: 2
+SARS-CoV-2 infection    frequenza assoluta: 2
+Many countries  frequenza assoluta: 2
+high risk       frequenza assoluta: 2
+many surfaces   frequenza assoluta: 2
+positive cases  frequenza assoluta: 2
+Several COVID-19        frequenza assoluta: 1
+
+ - del file "pride_and_prejudice.txt":
+young man       frequenza assoluta: 5
+dear Mr.        frequenza assoluta: 4
+single man      frequenza assoluta: 2
+large fortune   frequenza assoluta: 2
+next ball       frequenza assoluta: 2
+large party     frequenza assoluta: 2
+young ladies    frequenza assoluta: 2
+Lady Lucas      frequenza assoluta: 2
+disagreeable man        frequenza assoluta: 2
+Miss Bennet     frequenza assoluta: 2
+second time     frequenza assoluta: 2
+good fortune    frequenza assoluta: 1
+own beauty      frequenza assoluta: 1
+much beauty     frequenza assoluta: 1
+good word       frequenza assoluta: 1
+little Lizzy    frequenza assoluta: 1
+other girls     frequenza assoluta: 1
+next assembly   frequenza assoluta: 1
+fine women      frequenza assoluta: 1
+own party       frequenza assoluta: 1
+
+| CON PROBABILITA' CONDIZIONATA MASSIMA
+ - del file "covid.txt":
+pregnant women  probabilità condizionata: 0.6666666666666666
+social distancing       probabilità condizionata: 0.5
+clinical studies        probabilità condizionata: 0.5
+indoor spaces   probabilità condizionata: 0.42857142857142855
+low levels      probabilità condizionata: 0.4
+SARS-CoV-2 variants     probabilità condizionata: 0.2857142857142857
+Many countries  probabilità condizionata: 0.2857142857142857
+positive cases  probabilità condizionata: 0.2857142857142857
+international guidelines        probabilità condizionata: 0.25
+viral pneumonia         probabilità condizionata: 0.25
+potential cell  probabilità condizionata: 0.25
+other proteins  probabilità condizionata: 0.25
+other coronaviruses     probabilità condizionata: 0.25
+Many groups     probabilità condizionata: 0.25
+crowded indoor  probabilità condizionata: 0.25
+common areas    probabilità condizionata: 0.25
+acute respiratory       probabilità condizionata: 0.23076923076923078
+infected person         probabilità condizionata: 0.2
+leading causes  probabilità condizionata: 0.2
+higher levels   probabilità condizionata: 0.2
+
+ - del file "pride_and_prejudice.txt":
+large party     probabilità condizionata: 0.3333333333333333
+young man       probabilità condizionata: 0.3125
+large fortune   probabilità condizionata: 0.25
+good word       probabilità condizionata: 0.25
+young ladies    probabilità condizionata: 0.25
+fine women      probabilità condizionata: 0.25
+handsome girl   probabilità condizionata: 0.25
+second time     probabilità condizionata: 0.25
+pretty women    probabilità condizionata: 0.25
+next ball       probabilità condizionata: 0.2222222222222222
+own beauty      probabilità condizionata: 0.2
+much beauty     probabilità condizionata: 0.2
+good house      probabilità condizionata: 0.2
+little beauty   probabilità condizionata: 0.2
+Lady Lucas      probabilità condizionata: 0.16666666666666666
+own party       probabilità condizionata: 0.16666666666666666
+next assembly   probabilità condizionata: 0.14285714285714285
+single man      probabilità condizionata: 0.125
+good fortune    probabilità condizionata: 0.125
+disagreeable man        probabilità condizionata: 0.125
+
+| CON FORZA ASSOCIATIVA MASSIMA
+ - del file "covid.txt":
+social distancing       LMI: 41.616399939436604
+pregnant women  LMI: 37.901132325329485
+acute respiratory       LMI: 34.97574688328193
+indoor spaces   LMI: 25.846382218141898
+clinical studies        LMI: 19.290416165549367
+low levels      LMI: 18.00270378599992
+SARS-CoV-2 variants     LMI: 16.06099647731895
+Many countries  LMI: 16.06099647731895
+positive cases  LMI: 16.06099647731895
+many surfaces   LMI: 13.45268969100018
+severe symptoms         LMI: 13.24916817683641
+airborne particles      LMI: 12.950566162664744
+higher risk     LMI: 11.662853783115294
+increased risk  LMI: 11.662853783115294
+high risk       LMI: 11.662853783115294
+SARS-CoV-2 infection    LMI: 9.196168341321316
+international guidelines        LMI: 8.645208082774683
+viral pneumonia         LMI: 8.645208082774683
+potential cell  LMI: 8.645208082774683
+other proteins  LMI: 8.645208082774683
+
+ - del file "pride_and_prejudice.txt":
+young man       LMI: 34.874985357336456
+large party     LMI: 16.966287950275234
+large fortune   LMI: 15.306137953159858
+young ladies    LMI: 15.306137953159858
+second time     LMI: 15.306137953159858
+next ball       LMI: 14.62643794739061
+Lady Lucas      LMI: 12.966287950275236
+dear Mr.        LMI: 12.153436529858887
+single man      LMI: 11.30613795315986
+disagreeable man        LMI: 11.30613795315986
+good word       LMI: 8.65306897657993
+fine women      LMI: 8.65306897657993
+handsome girl   LMI: 8.65306897657993
+pretty women    LMI: 8.65306897657993
+own beauty      LMI: 8.009212786805206
+much beauty     LMI: 8.009212786805206
+good house      LMI: 8.009212786805206
+little beauty   LMI: 8.009212786805206
+own party       LMI: 7.483143975137617
+next assembly   LMI: 7.038359132464722
+
+_________________________________________________
+
+• FRASE CON ALMENO 6 E MENO DI 25 TOKEN (DOVE OGNI TOKEN HA UNA FREQUENZA > 2)
+| CON LA MEDIA DELLA DISTRIBUZIONE DI FREQUENZA DEI TOKEN PIU' ALTA
+ - del file "covid.txt":
+ These effects cause the majority of the respiratory symptoms.  media di distribuzione: 107.1
+
+ - del file "pride_and_prejudice.txt":
+ single, my dear, to be sure!   media di distribuzione: 122.55555555555556
+
+| CON LA MEDIA DELLA DISTRIBUZIONE DI FREQUENZA DEI TOKEN PIU' BASSA
+ - del file "covid.txt":
+ Transmission is more likely when people are physically close.  media di distribuzione: 44.0
+
+ - del file "pride_and_prejudice.txt":
+ What a fine thing for our girls!"      media di distribuzione: 38.44444444444444
+
+| CON LA PROBABILITA' PIU' ALTA, CALCOLATA ATTRAVERSO IL MODELLO DI MARKOV DI ORDINE 2
+ - del file "covid.txt":
+ The initial focus of SARS-CoV-2 vaccines was on preventing symptomatic, often severe illness.  probabilità: 2.601727547091268e-05
+
+ - del file "pride_and_prejudice.txt":
+ "Is he married or single?"     probabilità: 0.00015525539512498062
+
+_________________________________________________
+
+• I PRIMI 15 NOMI PROPRI DI PERSONA PIU' FREQUENTI
+ - del file "covid.txt":
+ Wuhan, Adhanom, CauseCOVID‑19, Pango, Alpha, Delta, Kent, SARS-CoV-2, Cardiovascular, Blood, Clinical, Virus, Multiple, Human, SARS-COV2.
+
+ - del file "pride_and_prejudice.txt":
+ Mr.Bingley, Mr.Bennet, Jane, Mr.Darcy, Bingley, Lizzy, Elizabeth, Darcy, Bennet, Mary, MissBingley, LadyLucas, Kitty, MissLucas, Lydia.
+ 
